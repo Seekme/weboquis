@@ -1,0 +1,10 @@
+<-------- Weboquis.fr -------->
+
+Contenu :
+
+- Portfolio (Présentation de mes sites, explications, contextes, enjeux)
+- Présentation perso, CV, ambitions
+- Trouvaille, mini blog
+
+Architecture :
+
